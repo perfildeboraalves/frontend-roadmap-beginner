@@ -30,7 +30,7 @@ I drive my learning and coding with an **AI-First mindset**. This project is a c
 * **Day 2:** Planning, development, and analysis of a design document.
 * **Day 3:** Development environment setup; HTML and CSS development.
 
-❤️ A warm hug to @filipedeschamps who enlightened me a lot about GitHub on [curso.dev](curso.dev)
+❤️ A warm hug to @filipedeschamps who enlightened me a lot about GitHub on [curso.dev](https://curso.dev/)
 
 ### 📄 License
 
@@ -66,7 +66,7 @@ Eu guio meu aprendizado e desenvolvimento com uma mentalidade **AI-First**. Este
 * **Dia 2:** Planejamento, desenvolvimento e análise de um documento de design.
 * **Dia 3:** Configuração do ambiente de desenvolvimento, desenvolvimento do HTML e CSS.
 
-❤️ Uma abraço carinhoso pro @filipedeschamps que me esclareceu muito sobre o GitHub no [curso.dev](curso.dev).
+❤️ Uma abraço carinhoso pro @filipedeschamps que me esclareceu muito sobre o GitHub no [curso.dev](https://curso.dev/).
 
 ### 📄 Licença 
 
